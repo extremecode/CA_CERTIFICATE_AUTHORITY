@@ -86,14 +86,14 @@ stateOrProvinceName_default     = Karnataka
 localityName                    = Locality Name (eg, city)
 localityName_default            = BANGALORE
 0.organizationName              = Organization Name (eg, company)
-0.organizationName_default      = Micro Focus
+0.organizationName_default      = DE
 organizationalUnitName          = Organizational Unit Name (eg, section)
-organizationalUnitName_default  = ITOM
+organizationalUnitName_default  = DE
 commonName                      = Common Name (eg, your name or your servers hostname)
-commonName_default              = nmccloudvm35.ftc.hpeswlab.net
+commonName_default              = DE.com
 commonName_max                  = 64
 emailAddress                    = Email Address
-emailAddress_default            = akash.gupta2@microfocus.com
+emailAddress_default            = akash@abc.com
 emailAddress_max                = 64
 
 [ v3_ca ]
@@ -216,14 +216,14 @@ stateOrProvinceName_default     = Karnataka
 localityName                    = Locality Name (eg, city)
 localityName_default            = BANGALORE
 0.organizationName              = Organization Name (eg, company)
-0.organizationName_default      = Micro Focus
+0.organizationName_default      = DE
 organizationalUnitName          = Organizational Unit Name (eg, section)
-organizationalUnitName_default  = ITOM
+organizationalUnitName_default  = DE
 commonName                      = Common Name (eg, your name or your servers hostname)
-commonName_default              = nmccloudvm35.ftc.hpeswlab.net
+commonName_default              = DE@.de.com
 commonName_max                  = 64
 emailAddress                    = Email Address
-emailAddress_default            = akash.gupta2@microfocus.com
+emailAddress_default            = akash@abc.com
 emailAddress_max                = 64
 
 [ v3_ca ]
