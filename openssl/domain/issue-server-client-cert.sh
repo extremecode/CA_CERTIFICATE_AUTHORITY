@@ -44,7 +44,7 @@ cp $CA_DIR/certs/intermediate.cacert.pem $DOMAIN-intermediate.pem
 
 
 
-openssl genrsa -out $DOMAIN-client.key 2048 -subj "/C=IN/ST=Karnataka/L=Banagalore /O=Micro Focus/OU=ITOM/CN=NOM/emailAddress=akash.gupta2@microfocus.com"
+openssl genrsa -out $DOMAIN-client.key 2048 -subj "/C=IN/ST=Karnataka/L=Banagalore /O=DE/OU=DE/CN=DE/emailAddress=akash@abc.com"
 openssl req -new -key $DOMAIN-client.key -out $DOMAIN-client.csr
 
 rm -rf $DOMAIN.ext
